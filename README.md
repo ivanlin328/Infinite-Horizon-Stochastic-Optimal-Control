@@ -11,7 +11,7 @@ This project implements **safe trajectory tracking** for a differential-drive gr
 Both controllers are designed to follow a reference trajectory while avoiding static obstacles and compensating for stochastic motion disturbances.
 
 ---
-
+![Trajectory Animation](starter_code/fig/animation1749767259.72015.gif)
 
 ## Project Description
 
